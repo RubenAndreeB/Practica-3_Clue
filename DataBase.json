@@ -1,0 +1,31 @@
+{
+  "evidencia": [
+    {
+      "personajes": {
+        "Iron Man": false,
+        "Capitan": false,
+        "Thor": false,
+        "Spiderman": false,
+        "Wolwerine": false
+      }
+    },
+    {
+      "locaciones": {
+        "Torre Avengers": false,
+        "Cuartel del Ejercito": false,
+        "Asgard": false,
+        "Queens": false,
+        "Mansion Mutante": false
+      }
+    },
+    {
+      "armas": {
+        "Guantes Laser": false,
+        "Escudo de Cap": false,
+        "Mjolnir":false,
+        "Lanza Telarañas": false,
+        "Garras de Adamantium": false
+      }
+    }
+  ]
+}
