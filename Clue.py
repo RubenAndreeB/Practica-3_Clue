@@ -137,7 +137,7 @@ def finalizar_juego():
             resultado_label.config(text=resultado+"\nDeduciste correctamente "+str(respuestas_correctas)+" veces GANASTE")
             intentos_restantes=-1
         else:
-            resultado_label.config(text=resultado+"\nDeduciste correctamente "+str(respuestas_correctas)+" veces PERDISTE")
+            resultado_label.config(text=resultado+"\nDeduciste correctamente "+str(respuestas_correctas)+" veces \nPERDISTE")
             intentos_restantes=-1
     else:
         messagebox.showinfo("Advertencia", "Debes utilizar los 5 intentos antes de finalizar el juego.")
